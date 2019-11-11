@@ -1,0 +1,17 @@
+{
+  "name": "casestudydata",
+  "version": "1.0.0",
+  "description": "Database for Case Study",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "email-validator": "^2.0.4",
+    "express": "*",
+    "mongoose": "^5.7.5"
+  },
+  "author": "Nikolay Ninov",
+  "license": "ISC"
+}
